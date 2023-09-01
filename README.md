@@ -1,2 +1,2 @@
 # AL3QAB
-AL3QAB Grahics library written in good old c
+AL3QAB is a gui library written in good old c
